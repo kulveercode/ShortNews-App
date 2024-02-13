@@ -1,5 +1,5 @@
 
-import { AppBar, Toolbar, styled, Box } from '@mui/material';
+import { AppBar, Toolbar, styled} from '@mui/material';
 import { Menu } from '@mui/icons-material';
 
 const StyledApp = styled(AppBar)`

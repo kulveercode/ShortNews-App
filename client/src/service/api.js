@@ -1,6 +1,8 @@
 import axios from 'axios';
 
-const URL = 'http://localhost:8000';
+// const URL = 'http://localhost:8000';
+
+const URL = 'https://newsapp-w2fy.onrender.com';
 
 
 export const getNews = async (page, size = 5) => {
